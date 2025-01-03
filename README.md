@@ -8,23 +8,23 @@ How to Run
 
 Clone the Repository:
 
-git clone https://github.com/AXAD-MHSR/face-detection.git
-cd face-detection
+`git clone https://github.com/AXAD-MHSR/face-detection.git
+cd face-detection`
 
 Set Up the Environment:
 
 Create a virtual environment (optional but recommended):
 
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+`python -m venv venv
+source venv/bin/activate`  # On Windows: `venv\Scripts\activate`
 
 Install dependencies:
 
-pip install opencv-python opencv-python-headless
+`pip install opencv-python opencv-python-headless`
 
 Run the Script:
 
-python main.py
+`python main.py`
 
 Usage:
 
